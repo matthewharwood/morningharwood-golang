@@ -1,10 +1,10 @@
 package main
 
 import (
-    "github.com/labstack/echo"
-    "github.com/labstack/echo/engine/standard"
-    "github.com/labstack/echo/middleware"
-    "github.com/matthewharwood/morningharwood/api"
+  "github.com/labstack/echo"
+  "github.com/labstack/echo/engine/standard"
+  "github.com/labstack/echo/middleware"
+  "github.com/matthewharwood/morningharwood/api"
 )
 
 const (
